@@ -2,8 +2,8 @@
 title: Your blog title
 name: Your name
 description: Your blog description
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://www.example.com" # the base hostname & protocol for your site e.g. http://materializeblog.com
+baseurl: "/materialize-jekyll" # the subpath of your site, e.g. /blog
+url: "https://woodcock3.github.io" # the base hostname & protocol for your site e.g. http://materializeblog.com
 google_analytics: ""
 
 # User settings
